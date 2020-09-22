@@ -4,4 +4,12 @@ numpy
 matplotlib
 seaborn
 fuzzywuzzy
+python-Levenshtein
 scikit-learn
+math
+re
+time
+tqdm
+nltk
+datasketch
+pytest
