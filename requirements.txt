@@ -13,3 +13,4 @@ tqdm
 nltk
 datasketch
 pytest
+pickle
