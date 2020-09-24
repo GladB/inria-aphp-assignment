@@ -9,6 +9,7 @@ Les autres fichiers contiennent des données:
 - db_clean.csv et clean_pcr.csv contiennent les données patient et pcr après cleaning
 - australia_covid_no_dup.csv contient df_patient après déduplication par la méthode LSH
 - deduped.pkl contient le pickle.dump des résultats de process.dedupe sur la totalité des données (2h46 de traitement)
+- Igismap contient les données nécessaires à geopandas pour l'affichage de la carte de l'Australie
 
 
 **Installation des librairies nécessaires**
